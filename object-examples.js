@@ -13,3 +13,9 @@ var animal = {
   stripes: true,
 
 }
+
+var customer = {
+  isAngry: true,
+  isRight: false,
+  isLeaving: "hopefully"
+}
